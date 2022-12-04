@@ -1,0 +1,22 @@
+{
+  "name": "efairplay",
+  "version": "1.0.0",
+  "description": "An e-sports platform that enforces fair play in competitive gaming",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gaming",
+    "e-sports",
+    "esports",
+    "video",
+    "games",
+    "games"
+  ],
+  "author": "William Mabotja",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
